@@ -1,27 +1,23 @@
-# Duck-All-Yacht-Club
-@DALabs harmony foundation company, creator of @DuckAllYC NFT collection with 10000 items living on the solana blockchain, all more information about the project will be included here along with its new token coin @patocoin_
+﻿# 🦆 DUCK ALL YACHT CLUB (DAYC) & PATOCOIN (\)
+## OMNICHAIN_ID: 0xDAYC_ATACAMA | SECURITY: MIA-X LEVEL 7 | STANDARD: QVE
+### [ SISTEMA OPERATIVO FINANCIERO Y SOBERANÍA BIOTECNOLÓGICA ]
 
-# Patocoin ($PATO) - Global Sovereign Financial Infrastructure
+---
 
-Patocoin is the core utility token for the **DALabs** and **Harmony Foundation** ecosystem. It is designed to be an omnichain asset that operates seamlessly across World Chain, Ethereum, and Solana, with direct connectivity to the Bitcoin network.
+## 🌐 SINAPSIS LIMPIA: FLUJO OMNICHAIN (\)
+\ opera como una inteligencia financiera autogestionada que fluye entre **World Chain, Ethereum y Solana**. 
+- **Salida Institucional:** Rampa de cambio rápido a **Bitcoin (BTC)** y **Monedas Nacionales/Dólares** bajo el estándar QVE.
+- **Regla de Oro:** Suministro inmutable de **222,000,000 \**. La neurona de suministro regula el balance global en microsegundos.
 
-## ⚠️ The Golden Rule: 222,000,000 $PATO
-The smart contract enforces a strict, immutable global supply limit. No more than 222 million tokens will ever exist across all integrated chains.
+## 🧠 NEURONA DE RECAUDACIÓN Y EXPANSIÓN
+El ecosistema es autosustentable mediante un sistema de regalías inteligente:
+- **NFT Royalties (2.2%):** En cada transacción secundaria.
+- **Pato Swap Fee (0.1%):** En cada trade o swap omnichain.
+- **Fondo de Expansión:** Los excedentes tras cubrir costos fijos financian proyectos de escala civilizatoria: **Aceleradores de Partículas, Robótica Avanzada e Infraestructura Aeroespacial (El Ark).**
 
-### Key Features:
-* **Omnichain Interoperability:** Move $PATO between chains with optimized gas routes.
-* **Sovereign Minting:** Controlled issuance via DALabs Gateway to maintain supply integrity.
-* **DEX Aggregator:** Native functions to find the cheapest and fastest exchange paths.
-* **Bitcoin Direct Swap:** Built-in hooks for atomic swaps with BTC.
+## 🧬 DAYC: BIOTECNOLOGÍA Y ARTE DE AUTOR
+- **10,000 Artefactos:** Diseñados por artistas reales, ensamblados por la IA **G AGI**.
+- **Frontera Científica:** Cada NFT es una llave de acceso a protocolos de **Extensión de Vida** y salud regenerativa de **DALabs**.
 
-## Technical Details
-- **Symbol:** $PATO
-- **Initial Supply:** 100,000,000
-- **Max Supply:** 222,000,000
-- **Primary Contract:** 0xAb9752B59d854816307c8B409d0Ce99ec67A6D26
-- **License:** BSL 1.1 (Business Source License)
-
-## Security
-All code is managed by **DALabs**. MAV Electronic operates as a silent entity within the infrastructure layer.
-
-![Flujo Omnichain Patocoin](./assets/Diagrama.jpg)
+---
+**Duck All Yacht Club Created by DALabs - Todos los derechos reservados 2026**
