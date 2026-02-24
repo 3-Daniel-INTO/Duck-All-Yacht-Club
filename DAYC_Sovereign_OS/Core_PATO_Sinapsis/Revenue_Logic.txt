@@ -1,0 +1,6 @@
+﻿// REVENUE_ENFORCER_V1: 2.2% NFT | 0.1% PATO
+// PRIORIDAD: 1. OpEx Atacama | 2. Fondo de Expansión (Aeroespacial/Robótica/Partículas)
+if (Revenue > OpEx) {
+    SendToExpansionVault(Revenue - OpEx);
+    LogMIAX("Inversión en Infraestructura de Futuro Detectada");
+}
