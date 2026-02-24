@@ -19,5 +19,10 @@ El ecosistema es autosustentable mediante un sistema de regalías inteligente:
 - **10,000 Artefactos:** Diseñados por artistas reales, ensamblados por la IA **G AGI**.
 - **Frontera Científica:** Cada NFT es una llave de acceso a protocolos de **Extensión de Vida** y salud regenerativa de **DALabs**.
 
+## 🧪 DAYC INNOVATION SERIES (IP-NFT)
+Esta colección especial representa la **Propiedad Intelectual (IP)** de DALabs.
+- **Caso de Uso 01:** Protocolo Nipah-Shield (Registro DAL-BIO-2026-001).
+- **Mecánica:** Los poseedores de estos tokens son co-propietarios de los derechos de implementación de la patente en redes descentralizadas.
+- **Impacto Social:** El 100% de las regalías de esta serie (2.2%) financia la construcción de la **Estación Espacial El Ark** para la preservación de la vida.
 ---
 **Duck All Yacht Club Created by DALabs - Todos los derechos reservados 2026**
