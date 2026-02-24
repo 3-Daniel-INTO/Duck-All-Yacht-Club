@@ -1,0 +1,39 @@
+﻿{
+    "name":  "DAYC Research: 14.28 GHz Resonance: Viral Disruption",
+    "description":  "NFT Especial de validación de investigación avanzada. Representa el acceso a la propiedad intelectual de 14.28 GHz Resonance: Viral Disruption desarrollada por DALabs.",
+    "properties":  {
+                       "creators":  [
+                                        {
+                                            "share":  100,
+                                            "address":  "TU_WALLET_SOLANA_DEAL_AQUI"
+                                        }
+                                    ],
+                       "category":  "image",
+                       "files":  [
+                                     {
+                                         "uri":  "PENDIENTE_CARGA_ARWEAVE",
+                                         "type":  "image/png"
+                                     }
+                                 ]
+                   },
+    "attributes":  [
+                       {
+                           "value":  "Bio-Physics",
+                           "trait_type":  "Research Field"
+                       },
+                       {
+                           "value":  "QVE Gold",
+                           "trait_type":  "Security Clearance"
+                       },
+                       {
+                           "value":  "Atacama Command",
+                           "trait_type":  "Sovereign Node"
+                       },
+                       {
+                           "value":  "DALabs Certified",
+                           "trait_type":  "Scientific Backing"
+                       }
+                   ],
+    "symbol":  "DAYC-RES",
+    "seller_fee_basis_points":  220
+}

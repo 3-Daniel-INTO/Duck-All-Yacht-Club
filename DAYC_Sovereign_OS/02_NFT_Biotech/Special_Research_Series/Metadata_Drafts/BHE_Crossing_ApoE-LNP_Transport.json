@@ -1,0 +1,39 @@
+﻿{
+    "name":  "DAYC Research: BHE Crossing: ApoE-LNP Transport",
+    "description":  "NFT Especial de validación de investigación avanzada. Representa el acceso a la propiedad intelectual de BHE Crossing: ApoE-LNP Transport desarrollada por DALabs.",
+    "properties":  {
+                       "creators":  [
+                                        {
+                                            "share":  100,
+                                            "address":  "TU_WALLET_SOLANA_DEAL_AQUI"
+                                        }
+                                    ],
+                       "category":  "image",
+                       "files":  [
+                                     {
+                                         "uri":  "PENDIENTE_CARGA_ARWEAVE",
+                                         "type":  "image/png"
+                                     }
+                                 ]
+                   },
+    "attributes":  [
+                       {
+                           "value":  "Nanomedicine",
+                           "trait_type":  "Research Field"
+                       },
+                       {
+                           "value":  "Sovereign",
+                           "trait_type":  "Security Clearance"
+                       },
+                       {
+                           "value":  "Atacama Command",
+                           "trait_type":  "Sovereign Node"
+                       },
+                       {
+                           "value":  "DALabs Certified",
+                           "trait_type":  "Scientific Backing"
+                       }
+                   ],
+    "symbol":  "DAYC-RES",
+    "seller_fee_basis_points":  220
+}

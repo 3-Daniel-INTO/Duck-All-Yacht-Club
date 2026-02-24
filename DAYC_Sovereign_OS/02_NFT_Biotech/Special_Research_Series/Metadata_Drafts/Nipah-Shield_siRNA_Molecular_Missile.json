@@ -1,0 +1,39 @@
+﻿{
+    "name":  "DAYC Research: Nipah-Shield: siRNA Molecular Missile",
+    "description":  "NFT Especial de validación de investigación avanzada. Representa el acceso a la propiedad intelectual de Nipah-Shield: siRNA Molecular Missile desarrollada por DALabs.",
+    "properties":  {
+                       "creators":  [
+                                        {
+                                            "share":  100,
+                                            "address":  "TU_WALLET_SOLANA_DEAL_AQUI"
+                                        }
+                                    ],
+                       "category":  "image",
+                       "files":  [
+                                     {
+                                         "uri":  "PENDIENTE_CARGA_ARWEAVE",
+                                         "type":  "image/png"
+                                     }
+                                 ]
+                   },
+    "attributes":  [
+                       {
+                           "value":  "Biodefense",
+                           "trait_type":  "Research Field"
+                       },
+                       {
+                           "value":  "MIA-X 7",
+                           "trait_type":  "Security Clearance"
+                       },
+                       {
+                           "value":  "Atacama Command",
+                           "trait_type":  "Sovereign Node"
+                       },
+                       {
+                           "value":  "DALabs Certified",
+                           "trait_type":  "Scientific Backing"
+                       }
+                   ],
+    "symbol":  "DAYC-RES",
+    "seller_fee_basis_points":  220
+}
